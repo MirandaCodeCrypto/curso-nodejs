@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "moment": "^2.29.4",
+    "papaparse": "^5.3.2"
+  },
+  "name": "curso-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
